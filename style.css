@@ -2,3 +2,6 @@
 
 /* Allow enlarged text to wrap within narrow screens. */
 h1,.target{overflow-wrap:anywhere}.column{min-width:0}button,select{min-width:0;max-width:100%;overflow-wrap:anywhere}
+
+/* Keep tile coordinates available when reading without the visual grid. */
+.visually-hidden{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap;border:0}
