@@ -16,4 +16,4 @@ Use the pinned source ZIP linked below, extract it, then open `index.html` in th
 
 If you try a puzzle, you can voluntarily open an issue in this repository: which puzzle did you try, were the controls and targets clear, and would you choose to play another? Describe any confusing step and your browser. Please do not include personal information. Feedback is optional; no account is needed to play the downloaded game.
 
-[Download source ZIP](https://codeload.github.com/Dexter-Ou/sum-shift/zip/3fa18ef8e83a0d926302b69865250a705c0ad1ae)
+[Download source ZIP](https://codeload.github.com/Dexter-Ou/sum-shift/zip/132789fc13cb778ea1eee5a10a1df5359f749b54)
