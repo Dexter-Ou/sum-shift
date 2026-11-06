@@ -1,4 +1,4 @@
-# Sum Shift — free offline prototype
+# Six Sums Turn — free offline prototype
 
 Open `index.html` in a modern browser, keeping `game.js` and `style.css` beside it. No installation or server is required.
 
