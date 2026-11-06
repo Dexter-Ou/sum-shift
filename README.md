@@ -2,7 +2,7 @@
 
 Open `index.html` in a modern browser, keeping `game.js` and `style.css` beside it. No installation or server is required.
 
-Rotate rows right and columns down to match all six visible sums. All three puzzles are solvable; multiple winning arrangements are allowed. Undo, reset and a revealable solution are included. Use Tab then Enter/Space for buttons. There is no timer or persistence.
+Rotate rows right and columns down to match all six visible sums. All three puzzles are solvable and share the same target arrangement. Undo, reset and a revealable solution are included. Use Tab then Enter/Space for buttons. There is no timer or persistence.
 
 This free prototype contains three puzzles. Tested in automated Chromium journeys at desktop and narrow viewport sizes; other browsers and screen readers have not been tested. No external assets, libraries, analytics or network services are used.
 
@@ -10,7 +10,7 @@ MIT licensed. See LICENSE.
 
 ## Download and play
 
-Use the pinned source ZIP linked below, extract it, then open `index.html` in the extracted folder. Keep the three game files together. GitHub's repository page is a download/source page, not a playable website.
+Use the pinned source ZIP linked below, extract it, then open `index.html` in the extracted folder. Keep the three game files together. If you are reading this inside an extracted ZIP, open the adjacent `index.html` directly; you do not need to download another ZIP. Archived README download links may refer to earlier revisions. GitHub's repository page is a download/source page, not a playable website.
 
 ## Optional playtest feedback
 
