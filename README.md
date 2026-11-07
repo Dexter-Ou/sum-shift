@@ -4,7 +4,7 @@ Open `index.html` in a modern browser, keeping `game.js` and `style.css` beside 
 
 Rotate rows right and columns down to match all six visible sums. All three puzzles are solvable and share the same target arrangement. Undo, reset and a revealable solution are included. Use Tab then Enter/Space for buttons. There is no timer or persistence.
 
-This free prototype contains three puzzles. Tested in automated Chromium journeys at desktop and narrow viewport sizes; other browsers and screen readers have not been tested. No external assets, libraries, analytics or network services are used.
+This free prototype contains three puzzles. Tested in automated Chromium journeys at desktop and narrow viewport sizes, plus six automated Firefox 157 journeys on Linux covering solve, undo, reset and hints with storage available or blocked. Safari, physical touch devices and screen readers have not been tested. No external assets, libraries, analytics or network services are used.
 
 MIT licensed. See LICENSE.
 
